@@ -1,0 +1,28 @@
+{
+  "name": "bank-ocr-refactoring-kata",
+  "version": "1.0.0",
+  "description": "This kata is working software (currently).  The goal is to refactor it, keeping the Single Responsibility Principle in mind.",
+  "main": "bank-ocr-spec.js",
+  "scripts": {
+    "test": "jasmine-node bank-ocr-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarthStrom/bank-ocr-refactoring-kata.git"
+  },
+  "keywords": [
+    "SOLID",
+    "OCR",
+    "refactoring",
+    "kata"
+  ],
+  "author": "Jason Duffy (@DarthStrom)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarthStrom/bank-ocr-refactoring-kata/issues"
+  },
+  "homepage": "https://github.com/DarthStrom/bank-ocr-refactoring-kata#readme",
+  "devDependencies" : {
+    "jasmine-node": "^1.14.3"
+  }
+}
