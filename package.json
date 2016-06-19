@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/DarthStrom/bank-ocr-refactoring-kata/issues"
   },
-  "homepage": "https://github.com/DarthStrom/bank-ocr-refactoring-kata#readme",
-  "devDependencies" : {
-    "jasmine-node": "^1.14.3"
-  }
+  "homepage": "https://github.com/DarthStrom/bank-ocr-refactoring-kata#readme"
 }

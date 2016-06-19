@@ -9,7 +9,7 @@ This kata is based on the Bank OCR kata at [codingdojo.org](http://codingdojo.or
 - [SRP Clean Coders video](https://cleancoders.com/episode/clean-code-episode-9/show)
 
 ## Getting started
-You should have node and npm.  To run the tests you will need jasmine-node.  You can either install it globally with npm (`npm install -g jasmine-node`) or locally (`npm install`).
+You should have [Node.js](nodejs.org), [npm](www.npmjs.com), and [jasmine-node](github.com/mhevery/jasmine-node).  You can install jasmine-node globally with `npm install -g jasmine-node`.
 
 Once you have jasmine-node, you can run the tests with `jasmine-node bank-ocr-spec.js`.  They should pass the first time before you make any changes.  Any time you make a change, you'll want to run the tests again to make sure you didn't break anything.
 
